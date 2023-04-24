@@ -1,0 +1,23 @@
+  Antes de nada, debes asegurarte de que la estrucutra de archivos es la correcta.
+Cuando descomprimas la carpeta comprimida que te has descargado, debera quedar de la 
+siguiente manera: en la unidad C:\ de tu ordenador y no en otra, debe estar la carpeta Liga Excel; 
+una vez pinches en ella, se te deben abrir tres archivos, Ayuda.txt, Liga Excel 22_23.xlsm, 
+Lectura obligatoria y una carpeta llamada Imagenes. y dentro de esta ultima, tres subcarpetas 
+mas con los nombres de Escudos, Estadios e Iconos, que a su vez incluiran archivos JPG, 
+importantes para el programa. Debes asegurarte de que comprendes esta estructura 
+para que el programa funcione bien.Hecho esto, ya podras comenzar a divertirte. 
+  Para que todo funcione bien, debes procurar ejecutar una jornada entera, sin interrupciones,
+porque si se interrumpe antes de acabar, se desvirtuan los datos y ya no reflejarian la realidad.
+Debes procurar salir del programa con su boton correspondiente en el menu principal, y siempre,
+insisto, SIEMPRE, desde ese boton. Pero durante el transcurso de una jornada, los botones de 
+salir están deshabilitados, por lo que es muy importante que antes de iniciar la jornada, te 
+asegures de que se podra disputar sin interrupciones, y toda de una vez.
+  Por lo demas, espero que esta pequeña aplicacion te sea divertida, y puedas disfrutarla tanto 
+como yo. Con esa intencion la he hecho.
+Gracias
+
+Aurelio
+
+P.D.: Si tienes alguna cuestion que comentarme sobre la aplicacion, no dudes en exponerme 
+cualquier cosa, positiva o negativa, (que tengo muchas cosas que aprender en VBA Excel),
+ en mi direccion de correo audy5510@gmail.com

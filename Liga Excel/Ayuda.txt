@@ -1,0 +1,144 @@
+Introduccion
+   Antes de nada, debes asegurarte de que la estrucutra de archivos es la correcta.
+Cuando descomprimas la carpeta comprimida que te has descargado, debera quedar de la 
+siguiente manera: en la unidad C:\ de tu ordenador, debe estar la carpeta Liga Excel; una vez 
+pinches en ella, se te deben abrir tres archivos, Ayuda.txt, Liga Excel 22_23.xlsm, Lectura 
+obligatoria.txt y una carpeta llamada Imagenes. y dentro de esta ultima, tres subcarpetas mas 
+con los nombres de Escudos, Estadios e Iconos, que a su vez incluiran archivos JPG, 
+importantes para el programa. Debes asegurarte de que comprendes esta estructura para 
+que el programa funcione bien.Hecho esto, ya podras comenzar a divertirte. 
+  La Liga Excel 22/23 es un sencillo y humilde programa construido en el lenguaje VBA para 
+Excel, practicamente todo automatico, apenas se necesita la mano del usuario, y sin ninguna 
+pretension de ser un gran programa. Es una hoja de calculo diseñada para Excel, 
+y solo se puede utilizar con Excel. Es un programa de futbol, pero sin futbol. 
+Solo se tienen en cuenta los datos, las estadisticas, y tampoco somos Mister Chip, 
+solo tenemos en cuenta los partidos con sus resultados, todos ellos aleatorios 
+como ya explicare mas adelante, los goleadores, penaltys, expulsiones y poco mas. 
+El programa consiste en que se disputan las jornadas de la temporada, todos los partidos 
+a la vez, como a la antigua usanza, y se van repartiendo los goles aleatoriamente en los 
+distintos estadios donde se disputan los partidos, de tal forma que se van sucediendo 
+los goles, asignando cada gol a cada equipo, y a cada jugador del equipo que lo marca. 
+Todo ello de forma automatica. De esta manera, sin ver ni un solo segundo de futbol, 
+se puede mantener cierta tension durante el transcurso de la jornada, pues no se puede saber 
+donde va a caer el proximo gol, quien lo va a marcar, y en que minuto. Si durante el tiempo que 
+se disputa la jornada, tienes necesidad de actualizar tu informacion deportiva o futbolistica real, 
+tienes algunos enlaces a los distintos medios, como pueden ser, Marca, As, Sport, 
+Mundo Deportivo, GolTv, El chiringuito de Jugones en Youtube, o incluso el propio Youtube. 
+  Si lo que quieres es crear tu propia informacion sobre un campeonato de liga distinto al real, 
+pero con los mismos equipos, y con un componente de azar mas real que el propio futbol 
+de la Liga española, este puede ser un buen entretenimiento para ti. Si te seducen los datos, 
+aunque no tengas el futbol real, y te gustaría comentar con tus compañeros de trabajo como va 
+tu equipo en una liga alternativa, este puede ser tu programa. Porque no puede ganar la liga 
+el Cadiz? O el Getafe? O el Mallorca? Como el componente de azar es alto, cualquier cosa 
+puede pasar. Pero Ojo! no todo es azar. Hay algun factor que puede influir y aumenta las 
+probabilidades de ganar de unos equipos mas que de otros. Esta el FairPlay Financiero, 
+o sea, el Tope Salarial al que estan sometidos todos los equipos de la Liga Santander, 
+el hecho de jugar en casa tambien le da un plus de victoria al equipo local, e incluso, 
+el desarrollo de la propia temporada que premiara mas al que lo haga bien y no lo hara, 
+al que lo haga mal. Pero aun asi, cualquier cosa puede pasar. Ya esta bien que la liga la ganen 
+siempre los mismos, no te parece? Probemos cosas nuevas.
+Atrevete a experimentar, y a comprobarlo.
+
+Menu Principal
+  Estas frente a un menu sencillo en donde solo hay dos opciones, ademas de la de salir 
+del programa, y la ayuda. El primer boton es el de los equipos. Si pulsas en el boton de los 
+equipos, el programa te lleva a una pantalla, en la que te muestra cierta informacion, sobre 
+los distintos equipos de la Liga Excel, algunos basados en la realidad, y otros, 
+los estadisticos, basados en tu Liga Excel. Si pulsas sobre el boton Jornadas, el programa 
+te lleva a otra pantalla, en la que se muestra toda la informacion sobre tu temporada 
+Excel, las jornadas disputadas y a disputar, la clasificacion actual, los goleadores, 
+y principalmente, el transcurso de la jornada. Por ultimo, con el boton de salir sales de la
+aplicacion de Excel, guardando todos los cambios.
+  Debo advertirte de un par de detalles importantes, uno tiene que ver con la multitarea. 
+Por supuesto, puedes hacer cualquier otra cosa a la vez, con el paquete Office, o cualquier 
+otra aplicacion de tu ordenador sin que se interrumpa la ejecucion de la jornada. Con minimizar 
+el libro, ya puedes abrir otra aplicacion, ya sea de Office o cualquier otra. Pero en Excel,
+tan solo, puedes tener abierto este libro, pues no te permite trabajar con otro a la vez,
+por lo que asegurate de que no necesitas abrir otro libro con la jornada a medias.
+  El otro detalle importante es que te instales y mantengas la carpeta entera del libro de 
+La Liga Excel 22/23, en el directorio raiz de tu ordenador, o sea, en la carpeta C:\, 
+para que todos los archivos esten perfectamente accesibles por el programa. 
+De esta forma el programa funcionara correctamente.
+
+Equipos
+  Esta hoja, te muestra toda la informacion del equipo que quieras observar. Esa informacion 
+se actualiza segun elijas el equipo que quieras ver, en el cuadro de buscar de color azul, de 
+arriba a la derecha de la pantalla. Como podras comprobar, si pinchas en el triangulito hacia 
+abajo del cuadro, aparecen todos los equipos de la competicion. Pincha en el que quieras, 
+y los datos de toda la pantalla, se actualizaran.
+  Hay dos links, o enlaces, en tonos azules,que te dirigen, uno a la pagina web de la Liga, de la 
+que podras sacar mucha informacion, como por ejemplo, las jornadas a disputar, y el otro, 
+a la pagina web de cada equipo que estes mirando. Tambien hay un cuadro donde figura 
+el nombre del entrenador, que como veras, tiene tambien fondo azul, y ello es porque se puede 
+modificar por parte del usuario. Una vez cambiado el nombre, se pulsa en el boton justo al lado
+para actualizar el dato.
+  Junto al cuadro de las jornadas disputadas, con sus partidos y resultados, hay unos botones
+con las letras V (victorias), E (empates), D (derrotas), y un último boton para regresar al estado
+inicial. Pulsando sobre cada uno de ellos, saldran solo las victorias, los empates o las derrotas, 
+segun se pulse uno u otro. Y con el boton final, se recupera el estado en el que estan de inicio.
+  Y por ultimo, esta el boton de las Jornadas que es un  boton azul, con un simbolo de play en 
+blanco y con el letrero de "Jornadas", escrito sobre el. Pulsando el boton, el programa te llevara 
+a la pagina donde se disputan las jornadas y te muestra toda la informacion deportiva, de forma 
+mas completa, y que afecta a tu temporada. 
+Pero eso te lo explico en otra pagina
+
+Jornadas
+  Es bastante intuitiva, pero voy a describirte la pantalla: nada mas entrar, saldra casi todo en 
+blanco, y no se activara nada hasta que pulses el boton del play de la Jornada con fondo azul, 
+que hay arriba a la derecha, o a los botones de desplazamiento a traves de las jornadas, 
+que tambien estan arriba, a la derecha. Una vez pulsados alguno de estos botones se te 
+muestra toda la informacion actualizada a la jornada ultima disputada. Si no hay ninguna
+disputada, la clasificacion aparece por orden alfabetico, y la tabla de goleadores, aparece vacia.
+  El recuadro de la jornada, puede aparecer con la ultima disputada, o la siguiente a disputar, y
+segun pulses los botones anterior o posterior de las jornadas, se iran mostrando por orden, 
+con sus resultados correspondientes, si se ha disputado alguna. Estan introducidas todas
+las jornadas de la primera vuelta, y falta por introducir la segunda, que se mostrara la
+correspondiente pantalla, para ello, cuando se alcance la jornada 19, que es la ultima introducida.
+  Si pinchas en alguno de los partidos del recuadro de la jornada, y se selecciona un encuentro, 
+justo debajo de ese recuadro, aparecen los datos de ese partido, los escudos de los equipos,
+el resultado, y los goleadores, con el minuto en que se marca el gol, si es de penalty, y la primera 
+o segunda parte.
+  Arriba a la izquierda, esta el reloj, que marca el transcurso de la jornada, y que avanza de 
+20 en 20 segundos. Cuando el reloj esta a 0, la informacion que se muestra es la 
+Previa de los partidos. Al pulsar en el Play de la jornada, se activa el boton de la Primera Parte, 
+y queda a la espera de que se pulse para comenzar este periodo. Hay un aviso previo que te 
+advierte de que el desarrollo de la jornada, no se puede interrumpir una vez empezado. 
+Si estas conforme, y dispuesto a empezar sin interrupciones, pulsas Si, y comienza la primera 
+parte. El reloj comienza su andadura y junto a el, se muestra 1 Parte en Juego. A partir de ahora,
+se van a ir sucediendo los goles en los distintos partidos de la jornada en juego. Cuando el reloj
+supere los 45 minutos, finalizara la Primera Parte, y aparecera el cartel de Descanso junto al reloj.
+Tambien se activara la opcion 2 Parte, para que la pulses cuando consideres conveniente.
+Cuando lo hagas, se mostrara el cartel 2 Parte en Juego. Y continuara el carrusel de goles
+durante la segunda parte. Y finalmente, cuando el reloj alcance los 45 minutos, la jornada 
+finalizara y mostrara Finalizado, y también se actualizaran las clasificaciones de la jornada por
+equipos, y tambien la de los goleadores. 
+  En la tabla clasificatoria de los equipos, si pinchas en uno de ellos, te lleva directamente a la 
+pantalla de los equipos, con ese equipo concreto seleccionado, y toda su informacion, tanto real 
+como de tu liga Excel.
+  Durante el transcurso de la jornada, o incluso sin estar en juego, se puede acceder a distintos
+sitios, por los cuales navegar, para estar bien informado respecto del futbol o cualquier otro 
+deporte. Los botones lo indican bien claro, esta el Marca, el As, el Sport, o Mundo Deportivo,
+aunque tambien puedes acceder a GolTv, o El Chiringuito de Jugones en Youtube, e incluso 
+el mismo Youtube para poder acceder a cualquier otra fuente de informacion que quieras.
+  Por ultimo, si te mueves por las jornadas, comprobaras que estan metidas hasta la primera 
+vuelta, y si quieres meter mas, te avisa de que ya no hay mas jornadas introducidas, y deberas
+meter mas, por lo que deberas responder que si, y te llevara a otra pantalla para meter los 
+partidos. Pero eso te lo explicare mas adelante
+
+Nueva Jornada
+  Esta pantalla, consiste en introducir los partidos correspondientes a cada jornada, que viene 
+enumerada en el cuadro de arriba, y viene ya por defecto. Primero se selecciona el equipo local 
+y aparece en el cuadro primero, luego se hace lo mismo en el cuadro del equipo visitante, 
+y tambien aparece en el segundo recuadro. Una vez elegidos los dos contendientes, se pulsa en 
+el boton Anadir, y el partido aparece en el listado de abajo a la izquierda. Se vuelve a repetir la 
+operacion hasta que el programa ya no te deja meter mas, pues has llegado al limite 
+que son 10 partidos. Si te has equivocado y has metido un partido que no corresponde, tienes
+la opcion de seleccionarlo, y comprobaras que se activa el boton Eliminar, pulsando sobre este 
+boton, el partido seleccionado se borrara, y podras volver a meter otro encuentro. Una vez 
+concluida la operacion de introducir los 10 partidos, les das al boton de salir y vuelves a la 
+pantalla de las jornadas, con la nueva jornada incorporada.
+
+
+
+
+
